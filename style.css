@@ -1,0 +1,17 @@
+div{
+    background-color:#dfeeea;
+    text-align: center;
+}
+body{
+    background-color:#dfeeea;
+}
+img{
+    height: 300px;
+}
+h3{
+    color: green;
+    font-style: italic;
+}
+h1{
+    color: rgb(108, 108, 153);
+}
